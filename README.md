@@ -10,5 +10,5 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg"/>
 
 
-<img src="https://img.shields.io/twitter/follow/smtrbci?color=%231DA1F2&style=for-the-badge"/><img src="https://img.shields.io/website?color=%2300D564&style=for-the-badge&up_message=Capslock&url=https%3A%2F%2Fcapslockweb.com%2F"/>
+<img src="https://img.shields.io/twitter/follow/smtrbci?color=%231DA1F2&style=for-the-badge"/> <img src="https://img.shields.io/website?color=%2300D564&style=for-the-badge&up_message=Capslock&url=https%3A%2F%2Fcapslockweb.com%2F"/>
 
