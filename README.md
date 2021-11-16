@@ -8,7 +8,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Smtrbci&repo=Python-Project&theme=tokyonight)](https://github.com/Smtrbci/Python-Project)
 
 ### Languages and Tools
-
+------------------------------------------------------------------------------------------
 <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
