@@ -8,3 +8,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Smtrbci&repo=Python-Project&theme=tokyonight)](https://github.com/Smtrbci/Python-Project)
 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg"/>
+
+https://img.shields.io/website?color=%2300D564&style=for-the-badge&up_message=Capslock&url=https%3A%2F%2Fcapslockweb.com%2F
