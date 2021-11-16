@@ -9,19 +9,15 @@
 
 ### Languages and Tools
 ------------------------------------------------------------------------------------------
-<img src="https://img.icons8.com/fluency/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
-<img src="https://img.icons8.com/color/48/000000/dart.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/50/000000/android-studio--v3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/unity.png"/>
-<img src="https://img.icons8.com/color/48/000000/unreal-engine.png"/>
-
+<img src="https://img.icons8.com/fluency/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+------------------------------------------------------------------------------------------
+<img src="https://img.icons8.com/fluency/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/>
+------------------------------------------------------------------------------------------
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/50/000000/android-studio--v3.png"/> <img src="https://img.icons8.com/fluency/48/000000/unity.png"/> <img src="https://img.icons8.com/color/48/000000/unreal-engine.png"/>
+------------------------------------------------------------------------------------------
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/ios-filled/64/000000/php-logo.png"/>
+------------------------------------------------------------------------------------------
+<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
 
 
 <img src="https://img.shields.io/twitter/follow/smtrbci?color=%231DA1F2&style=for-the-badge"/> <img src="https://img.shields.io/website?color=%2300D564&style=for-the-badge&up_message=Capslockweb&url=https%3A%2F%2Fcapslockweb.com%2F"/>
