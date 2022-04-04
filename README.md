@@ -4,7 +4,7 @@
 
 ![Smtrbci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smtrbci&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smtrbc&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smtrbci&layout=compact&theme=tokyonight)
 
 ### Languages and Tools
 ------------------------------------------------------------------------------------------
