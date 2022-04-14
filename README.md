@@ -20,7 +20,6 @@
 
 ### Languages and Tools
 ---
-
 <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/python.png"/> <img height="32" width="32" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img height="32" width="32" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="32" width="32" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-color-tal-revivo.png"/>
 ---
 <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/flutter.png"/> <img height="32" width="32" src="https://img.icons8.com/color/48/000000/dart.png"/>
