@@ -4,11 +4,11 @@
 
 ### Social Media
 ---
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg"/>][twitter]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"/>][linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg"/>][instagram]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/google.svg"/>][google]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/wordpress.svg"/>][wordpress]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg"/>][twitter] 
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"/>][linkedin] 
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg"/>][instagram] 
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/google.svg"/>][google] 
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/wordpress.svg"/>][wordpress] 
 
 
 [twitter]: https://twitter.com/smtrbci
