@@ -2,7 +2,7 @@
 
 ### Hi there I'm Samet :wave:
 
-<a href="https://app.daily.dev/Smtrbci"><img src="https://api.daily.dev/devcards/e436b66d23444339ab73a27691ade9a8.png?r=e54" width="400" alt="Samet Arabacı's Dev Card"/></a>
+<a href="https://app.daily.dev/Smtrbci"><img src="https://api.daily.dev/devcards/e436b66d23444339ab73a27691ade9a8.png?r=e54" width="200" alt="Samet Arabacı's Dev Card"/></a>
 
 ### Social Media
 ---
